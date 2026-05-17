@@ -1,5 +1,6 @@
 # Awesome AI Safety
 A curated list of resources on AI Safety.
+> Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## Table of Contents
 - [Awesome AI Safety](#awesome-ai-safety)
