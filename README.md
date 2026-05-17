@@ -7,6 +7,7 @@ A curated list of resources on AI Safety.
   - [Table of Contents](#table-of-contents)
   - [AI Safety](#ai-safety)
     - [Courses and Resource Collections](#courses-and-resource-collections)
+    - [YouTube Channels](#youtube-channels)
   - [Technical AI Safety](#technical-ai-safety)
     - [Courses](#courses)
     - [Fellowships](#fellowships)
@@ -22,6 +23,22 @@ A curated list of resources on AI Safety.
 - [AI Safety Atlas](https://ai-safety-atlas.com/chapters/v1/capabilities/introduction/)
 - [Bluedot AGI Strategy Course](https://bluedot.org/courses/agi-strategy)
 - [Global Challenges Library - Why Care about AI?](https://globalchallengesproject.notion.site/Why-care-about-AI-a50e948079cf465eae3e6b62cf316ad3)
+
+### YouTube Channels
+
+| Channel | Description |
+|---|---|
+| [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI/videos) | Explains technical alignment concepts to general audiences through accessible explainer videos. |
+| [Rational Animations](https://www.youtube.com/@RationalAnimations/videos) | Animated videos fostering good thinking and promoting altruistic causes, with a focus on AI safety and ensuring humanity's future goes well. |
+| [AI In Context](https://www.youtube.com/@AI_In_Context/videos) | Channel produced by 80,000 Hours presenting thoroughly researched, cinematic stories about what's happening in AI and where trends are taking us. |
+| [Siliconversations](https://www.youtube.com/@Siliconversations/videos) | Entertaining stick figure explainers on AI safety — covering alignment, corporate negligence, regulations, and societal impacts. |
+| [AI Explained](https://www.youtube.com/@aiexplained-official/videos) | Discusses the latest AI developments as they happen, offering explanations and analysis of important research and events. |
+| [The Inside View](https://www.youtube.com/c/TheInsideView/videos) | Interviews with AI safety researchers, explainers, fictional stories of concrete threat models, and paper walkthroughs. |
+| [Doom Debates](https://www.youtube.com/@DoomDebates/videos) | In-depth debates, explainers, and live Q&A sessions focused on AI existential risk and implications of superintelligence. Hosted by Liron Shapira. |
+| [FAR.AI](https://www.youtube.com/@FARAIResearch/videos) | Posts talks given by AI safety experts at various events, covering mechanistic interpretability, evals, and governance. |
+| [Species](https://www.youtube.com/@AISpecies/videos) | High-effort mini-documentaries by Drew Spartz educating a general audience about AI risk. |
+| [The AI Risk Network](https://www.youtube.com/@TheAIRiskNetwork/videos) | Run by Peabody and Emmy Award-winning journalist John Sherman, aiming to make AI risk a mainstream conversation. |
+| [Dr. Waku](https://www.youtube.com/@DrWaku/videos) | Computer science PhD and AI research scientist discussing how AI will affect society, plus expert interviews. |
 
 ---
 
