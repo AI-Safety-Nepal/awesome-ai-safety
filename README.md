@@ -31,7 +31,7 @@ A curated list of resources on AI Safety.
 | [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI/videos) | Explains technical alignment concepts to general audiences through accessible explainer videos. |
 | [Rational Animations](https://www.youtube.com/@RationalAnimations/videos) | Animated videos fostering good thinking and promoting altruistic causes, with a focus on AI safety and ensuring humanity's future goes well. |
 | [AI In Context](https://www.youtube.com/@AI_In_Context/videos) | Channel produced by 80,000 Hours presenting thoroughly researched, cinematic stories about what's happening in AI and where trends are taking us. |
-| [Siliconversations](https://www.youtube.com/@Siliconversations/videos) | Entertaining stick figure explainers on AI safety — covering alignment, corporate negligence, regulations, and societal impacts. |
+| [Siliconversations](https://www.youtube.com/@Siliconversations/videos) | Entertaining stick figure explainers on AI safety, covering alignment, corporate negligence, regulations, and societal impacts. |
 | [AI Explained](https://www.youtube.com/@aiexplained-official/videos) | Discusses the latest AI developments as they happen, offering explanations and analysis of important research and events. |
 | [The Inside View](https://www.youtube.com/c/TheInsideView/videos) | Interviews with AI safety researchers, explainers, fictional stories of concrete threat models, and paper walkthroughs. |
 | [Doom Debates](https://www.youtube.com/@DoomDebates/videos) | In-depth debates, explainers, and live Q&A sessions focused on AI existential risk and implications of superintelligence. Hosted by Liron Shapira. |
