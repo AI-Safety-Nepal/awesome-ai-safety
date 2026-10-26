@@ -47,6 +47,7 @@ A curated list of resources on AI Safety.
 ### Courses
 - [Bluedot Technical AI Safety Course](https://bluedot.org/courses/technical-ai-safety)
 - [Global Challenges Library - AI Alignment](https://globalchallengesproject.notion.site/AI-Alignment-59fa401974f94c629f3df23be88cdbcb)
+- [Alignment Research Engineering Accelerator - ARENA](https://learn.arena.education/)
 
 ### Fellowships
 
